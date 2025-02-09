@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK36
+D Schottky Diodes & Rectifiers Schottky Diode, SMC, 60V, 3A
+K
+F https://diotec.com/request/datasheet/sk32.pdf
+$ENDCMP
+#
+#End Doc Library

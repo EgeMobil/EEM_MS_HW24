@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADM4852ARZ
+D Line Transmitter/Receiver 1TR 1TX 1RX
+K
+F http://www.analog.com/static/imported-files/data_sheets/ADM4850_4851_4852_4853_4854_4855_4856_4857.pdf
+$ENDCMP
+#
+#End Doc Library

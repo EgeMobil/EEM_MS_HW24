@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SK106-TP
+D 10 Amp Schottky Rectifier 20 to 100 Volts
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/080c41331cebc20af8c71c83601b8880.pdf
+$ENDCMP
+#
+#End Doc Library

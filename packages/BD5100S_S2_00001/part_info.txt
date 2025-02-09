@@ -1,0 +1,9 @@
+Manufacturer=PANJIT
+PartNumber=BD5100S_S2_00001
+PartCategory=Schottky Diode
+PackageCategory=Other
+PinCount=3
+Version=1.1
+Released=2021-06-30 08:40:10
+Downloaded=2023-11-05 22:40:48
+3D=N

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TSV911ILT
+D TSV911ILT, Operational Amplifier 8MHz Rail-Rail, 3 V, 5 V, 5-Pin SOT-23
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-DGA24/1617868.pdf
+$ENDCMP
+#
+#End Doc Library

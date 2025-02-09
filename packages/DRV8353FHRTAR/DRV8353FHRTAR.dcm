@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8353FHRTAR
+D Triple Half Bridge Motor Driver Automotive 40-Pin WQFN EP T/R
+K
+F https://www.ti.com/lit/ds/symlink/drv8353f.pdf?ts=1617511824026&ref_url=https%253A%252F%252Fwww.ti.com%252Fstore%252Fti%252Fen%252Fp%252Fproduct%252F%253Fp%253DDRV8353FHRTAR
+$ENDCMP
+#
+#End Doc Library

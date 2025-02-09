@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RSR030N06TL
+D Rohm, MOSFET, RSR030N06TL ROHM RSR030N06TL N-channel MOSFET Transistor, 3 A, 60 V, 3-Pin SC-96
+K
+F https://componentsearchengine.com/Datasheets/2/RSR030N06TL.pdf
+$ENDCMP
+#
+#End Doc Library

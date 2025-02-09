@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP DRV8303DCA
+D Texas Instruments DRV8303DCA, Three-Phase Gate Driver With Dual-Current Shunt
+K
+F https://componentsearchengine.com/Datasheets/2/DRV8303DCA.pdf
+$ENDCMP
+#
+#End Doc Library

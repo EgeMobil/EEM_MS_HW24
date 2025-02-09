@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IXFH40N30
+D MOSFET, N CHANNEL, 300V, 40A, TO-247AD; Transistor Polarity:N Channel; Drain Source Voltage Vds:300V; Continuous Drain Current Id:40A; On Resistance Rds(on):0.085ohm; Transistor Mounting:Through Hole; Rds(on) Test Voltage Vgs:10V RoHS Compliant: Yes
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/88513e911acb05185c9f39d942a76b97.pdf
+$ENDCMP
+#
+#End Doc Library
